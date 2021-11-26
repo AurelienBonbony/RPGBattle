@@ -1,0 +1,34 @@
+#pv{font-style: italic;color: cornsilk;}
+
+#pvHero1{display: inline-block;}
+#pvHero2{display: inline-block;}
+#pvHero3{display: inline-block;}
+#pvHero4{display: inline-block;}
+
+body{
+    display: flex;
+    justify-content: end; flex-direction: column-reverse; 
+    background-image: url(https://cdn.discordapp.com/attachments/777530932617936947/913696693780885504/environment_forest_evening.png);
+    height: 1280px;
+   width: 1920px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#heros {
+    color:cornsilk;
+    width: 100px;
+    border: 15px outset cornsilk;
+    padding: 50px;
+    margin: 0px;
+    background-color:rgb(38, 118, 143)
+  }
+
+#monstre {
+    color:cornsilk;
+    width: 100px;
+    border: 15px outset cornsilk;
+    padding: 50px;
+    margin: 20px;
+    background-color:rgb(38, 118, 143)
+  }
